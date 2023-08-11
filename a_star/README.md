@@ -7,9 +7,14 @@ A* Algorithm - is one of the most popular if not best path-finding algos. Basica
 
 USE CASES:
     - Parsing using Stochastic grammers in NLP(Natural Language Processing)
+    
     - Moving NPC(Non-Playable Characters) in Video Games
+    
     - Route planning(think of Uber)
+    
     - Logistics(think of DHL)
+    
     - Robotics(think of Sophia the robot)
+    
 
 So how does it exactly work? Think of a square grid, say 16x16, we have our start node the left side and end node on the right side. In between are obstacles randomly placed. The purpose of the algo will be to find the shortest path through the obstacles. Remember that the shortest path is the optimal path.
